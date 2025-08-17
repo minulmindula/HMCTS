@@ -1,0 +1,12 @@
+[submodule "HMCTS-Frontend"]
+	path = HMCTS-Frontend
+	url = https://github.com/minulmindula/HMCTS-Frontend.git
+[submodule "HMCTS-Backend"]
+	path = HMCTS-Backend
+	url = https://github.com/minulmindula/HMCTS-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/minulmindula/HMCTS-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/minulmindula/HMCTS-Backend.git
